@@ -1,0 +1,17 @@
+{
+  "name": "mangad",
+  "version": "1.0.0",
+  "description": "To download manga from hanhan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liang",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "iconv": "^2.1.11",
+    "iconv-lite": "^0.4.13",
+    "mkdirp": "^0.5.1"
+  }
+}
